@@ -1,1 +1,1 @@
-# bullipedia.github.io
+# Bullipedia
