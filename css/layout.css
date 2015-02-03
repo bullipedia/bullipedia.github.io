@@ -6,6 +6,7 @@
 	margin-top: 30px;
 	overflow: hidden;
 	z-index: 5;
+	font-family: "Open Sans" !important;
 }
 #body{
 	font-family: "Open Sans" !important;
@@ -62,7 +63,7 @@
 }
 
 #greyBar{
-	margin-top: 30px;	
+	margin-top: 38px;	
 	min-height: 192px;
 	min-width: 720px;
 	background: #2a2a2a;
@@ -158,3 +159,4 @@
 	width:100%;
 	vertical-align: middle;
 }
+
